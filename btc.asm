@@ -2,7 +2,7 @@
 ;To run this thing use the following commands
 ;nasm -f macho64 btc.asm
 ;ld -macos_version_min 11.0 -L/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib -lSystem -o btc btc.o
-;./btc.o
+;./btc
 
 ; For macOS x86_64
 ; The heart symbol (♥) is Unicode U+2665
