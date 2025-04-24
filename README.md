@@ -1,4 +1,4 @@
-# 💰 Bitcoin Heart (btc_love.asm) 💰
+# Bitcoin Heart (btc_love.asm)
 
 ![Assembly](https://img.shields.io/badge/Assembly-x86__64-lightgrey)
 ![Platform](https://img.shields.io/badge/Platform-macOS-black)
